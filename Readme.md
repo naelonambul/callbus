@@ -22,7 +22,7 @@ call/src/main/java/com/bus/call/testDataInit
 ### 기능 부연 설명
 외부 사용자는 글을 불러오는 기능만 사용 가능합니다.  
 게시판 변경 히스토리 로그는 call/logs/board.log 에서 확인 가능합니다.  
-좋아요 추가 히스토리는 call/logs/logs/heart.log 에서 확인 사능합니다.  
+좋아요 추가 히스토리는 call/logs/heart.log 에서 확인 사능합니다.  
 
 ### 그외 링크
 포스트맨 파일 링크  
