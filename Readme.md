@@ -36,7 +36,7 @@ call/src/main/java/com/bus/call/testDataInit
 - 글작성,수정,삭제
 - 글 좋아요
 - 글 목록
-- HTTP header Authorization의 Value Prefix에 따라 구분 ex)curl -H "Authorization: Realtor 47" 없다면 외부사용자
+- HTTP header Authorization의 Value Prefix에 따라 구분 ex)curl -H "Authorization: Realtor 11" 없다면 외부사용자
 - 내부 회원 테이블 생성
 - 좋아요는 한 계정이 하나의 글에 한번만 가능
 - 어떤 사용자가 어떤글에 좋아요했는지 히스토리 확인가능
